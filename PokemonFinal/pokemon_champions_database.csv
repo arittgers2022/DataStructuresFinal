@@ -1,0 +1,321 @@
+BaseName,DisplayName,FormKind,Type1,Type2,BaseSpeed,Abilities,Availability,Version
+Venusaur,Venusaur,Base,Grass,Poison,80,Overgrow|Chlorophyll,Yes,1.0.2
+Charizard,Charizard,Base,Fire,Flying,100,Blaze|Solar Power,Yes,1.0.2
+Blastoise,Blastoise,Base,Water,,78,Torrent|Rain Dish,Yes,1.0.2
+Beedrill,Beedrill,Base,Bug,Poison,75,Swarm | Sniper,Yes,1.0.2
+Pidgeot,Pidgeot,Base,Normal,Flying,101,Keen Eye|Tangled Feet|Big Pecks,Yes,1.0.2
+Arbok,Arbok,Base,Poison,,80,Intimidate|Shed Skin|Unnerve,Yes,1.0.2
+Pikachu,Pikachu,Base,Electric,,90,Static|Lightning Rod,Yes,1.0.2
+Raichu,Raichu,Base,Electric,,110,Static|Lightning Rod,Yes,1.0.2
+Raichu,Raichu Alolan Form,Alt,Electric,Psychic,110,Surge Surfer,Yes,1.0.2
+Clefable,Clefable,Base,Fairy,,60,Cute Charm|Magic Guard|Unaware,Yes,1.0.2
+Ninetales,Ninetales,Base,Fire,,100,Flash Fire|Drought,Yes,1.0.2
+Ninetales,Ninetales Alolan Form,Alt,Ice,Fairy,109,Snow Cloak|Snow Warning,Yes,1.0.2
+Arcanine,Arcanine,Base,Fire,,95,Intimidate|Flash Fire|Justified,Yes,1.0.2
+Arcanine,Arcanine Hisuian Form,Alt,Fire,Rock,90,Intimidate|Flash Fire|Rock Head,Yes,1.0.2
+Alakazam,Alakazam,Base,Psychic,,120,Synchronize|Inner Focus|Magic Guard,Yes,1.0.2
+Machamp,Machamp,Base,Fighting,,55,Guts|No Guard|Steadfast,Yes,1.0.2
+Victreebel,Victreebel,Base,Grass,Poison,70,Chlorophyll|Gluttony,Yes,1.0.2
+Slowbro,Slowbro,Base,Water,Psychic,30,Oblivious|Own Tempo|Regenerator,Yes,1.0.2
+Slowbro,Slowbro Galarian Form,Alt,Poison,Psychic,30,Quick Draw|Own Tempo|Regenerator,Yes,1.0.2
+Gengar,Gengar,Base,Ghost,Poison,110,Cursed Body,Yes,1.0.2
+Kangaskhan,Kangaskhan,Base,Normal,,90,Early Bird|Scrappy|Inner Focus,Yes,1.0.2
+Starmie,Starmie,Base,Water,Psychic,115,Illuminate|Natural Cure|Analytic,Yes,1.0.2
+Pinsir,Pinsir,Base,Bug,,85,Hyper Cutter|Mold Breaker|Moxie,Yes,1.0.2
+Tauros,Tauros,Base,Normal,,110,Intimidate|Anger Point|Sheer Force,Yes,1.0.2
+Tauros,Tauros Paldean Form Combat Breed,Alt,Fighting,,100,Intimidate|Anger Point|Cud Chew,Yes,1.0.2
+Tauros,Tauros Paldean Form Blaze Breed,Alt,Fighting,Fire,100,Intimidate|Anger Point|Cud Chew,Yes,1.0.2
+Tauros,Tauros Paldean Form Aqua Breed,Alt,Fighting,Water,100,Intimidate|Anger Point|Cud Chew,Yes,1.0.2
+Gyarados,Gyarados,Base,Water,Flying,81,Intimidate|Moxie,Yes,1.0.2
+Ditto,Ditto,Base,Normal,,55,Limber|Imposter,Yes,1.0.2
+Vaporeon,Vaporeon,Base,Water,,65,Water Absorb|Hydration,Yes,1.0.2
+Jolteon,Jolteon,Base,Electric,,130,Volt Absorb|Quick Feet,Yes,1.0.2
+Flareon,Flareon,Base,Fire,,65,Flash Fire|Guts,Yes,1.0.2
+Aerodactyl,Aerodactyl,Base,Rock,Flying,130,Rock Head|Pressure|Unnerve,Yes,1.0.2
+Snorlax,Snorlax,Base,Normal,,30,Immunity|Thick Fat|Gluttony,Yes,1.0.2
+Dragonite,Dragonite,Base,Dragon,Flying,80,Inner Focus|Multiscale,Yes,1.0.2
+Meganium,Meganium,Base,Grass,,80,Overgrow|Leaf Guard,Yes,1.0.2
+Typhlosion,Typhlosion,Base,Fire,,100,Blaze|Flash Fire,Yes,1.0.2
+Typhlosion,Typhlosion Hisuian Form,Alt,Fire,Ghost,95,Blaze|Frisk,Yes,1.0.2
+Feraligatr,Feraligatr,Base,Water,,78,Torrent|Sheer Force,Yes,1.0.2
+Ariados,Ariados,Base,Bug,Poison,40,Swarm|Insomnia|Sniper,Yes,1.0.2
+Ampharos,Ampharos,Base,Electric,,55,Static|Plus,Yes,1.0.2
+Azumarill,Azumarill,Base,Water,Fairy,50,Thick Fat|Huge Power|Sap Sipper,Yes,1.0.2
+Politoed,Politoed,Base,Water,,70,Water Absorb|Damp|Drizzle,Yes,1.0.2
+Espeon,Espeon,Base,Psychic,,110,Synchronize|Magic Bounce,Yes,1.0.2
+Umbreon,Umbreon,Base,Dark,,65,Synchronize|Inner Focus,Yes,1.0.2
+Slowking,Slowking,Base,Water,Psychic,30,Oblivious|Own Tempo|Regenerator,Yes,1.0.2
+Slowking,Slowking Galarian Form,Alt,Poison,Psychic,30,Curious Medicine|Own Tempo|Regenerator,Yes,1.0.2
+Forretress,Forretress,Base,Bug,Steel,40,Sturdy|Overcoat,Yes,1.0.2
+Steelix,Steelix,Base,Steel,Ground,30,Rock Head|Sturdy|Sheer Force,Yes,1.0.2
+Scizor,Scizor,Base,Bug,Steel,65,Swarm|Technician|Light Metal,Yes,1.0.2
+Heracross,Heracross,Base,Bug,Fighting,85,Swarm|Guts|Moxie,Yes,1.0.2
+Skarmory,Skarmory,Base,Steel,Flying,70,Keen Eye|Sturdy|Weak Armor,Yes,1.0.2
+Houndoom,Houndoom,Base,Dark,Fire,95,Early Bird|Flash Fire|Unnerve,Yes,1.0.2
+Tyranitar,Tyranitar,Base,Rock,Dark,61,Sand Stream|Unnerve,Yes,1.0.2
+Pelipper,Pelipper,Base,Water,Flying,65,Keen Eye|Drizzle|Rain Dish,Yes,1.0.2
+Gardevoir,Gardevoir,Base,Psychic,Fairy,80,Synchronize|Trace|Telepathy,Yes,1.0.2
+Sableye,Sableye,Base,Dark,Ghost,50,Keen Eye|Stall|Prankster,Yes,1.0.2
+Aggron,Aggron,Base,Steel,Rock,50,Sturdy|Rock Head|Heavy Metal,Yes,1.0.2
+Medicham,Medicham,Base,Fighting,Psychic,80,Pure Power|Telepathy,Yes,1.0.2
+Manectric,Manectric,Base,Electric,,105,Static|Lightning Rod|Minus,Yes,1.0.2
+Sharpedo,Sharpedo,Base,Water,Dark,95,Rough Skin|Speed Boost,Yes,1.0.2
+Camerupt,Camerupt,Base,Fire,Ground,40,Magma Armor|Solid Rock|Anger Point,Yes,1.0.2
+Torkoal,Torkoal,Base,Fire,,20,White Smoke|Drought|Shell Armor,Yes,1.0.2
+Altaria,Altaria,Base,Dragon,Flying,80,Natural Cure|Cloud Nine,Yes,1.0.2
+Milotic,Milotic,Base,Water,,81,Marvel Scale|Competitive|Cute Charm,Yes,1.0.2
+Castform,Castform,Base,Normal,,70,Forecast,Yes,1.0.2
+Banette,Banette,Base,Ghost,,65,Insomnia|Frisk|Cursed Body,Yes,1.0.2
+Chimecho,Chimecho,Base,Psychic,,65,Levitate,Yes,1.0.2
+Absol,Absol,Base,Dark,,75,Pressure|Super Luck|Justified,Yes,1.0.2
+Glalie,Glalie,Base,Ice,,80,Inner Focus|Ice Body|Moody,Yes,1.0.2
+Torterra,Torterra,Base,Grass,Ground,56,Overgrow|Shell Armor,Yes,1.0.2
+Infernape,Infernape,Base,Fire,Fighting,108,Blaze|Iron Fist,Yes,1.0.2
+Empoleon,Empoleon,Base,Water,Steel,60,Torrent|Competitive,Yes,1.0.2
+Luxray,Luxray,Base,Electric,,70,Rivalry|Intimidate|Guts,Yes,1.0.2
+Roserade,Roserade,Base,Grass,Poison,90,Natural Cure|Poison Point|Technician,Yes,1.0.2
+Rampardos,Rampardos,Base,Rock,,58,Mold Breaker|Sheer Force,Yes,1.0.2
+Bastiodon,Bastiodon,Base,Rock,Steel,30,Sturdy|Soundproof,Yes,1.0.2
+Lopunny,Lopunny,Base,Normal,,105,Cute Charm|Klutz|Limber,Yes,1.0.2
+Spiritomb,Spiritomb,Base,Ghost,Dark,35,Pressure|Infiltrator,Yes,1.0.2
+Garchomp,Garchomp,Base,Dragon,Ground,102,Sand Veil|Rough Skin,Yes,1.0.2
+Lucario,Lucario,Base,Fighting,Steel,90,Steadfast|Inner Focus|Justified,Yes,1.0.2
+Hippowdon,Hippowdon,Base,Ground,,47,Sand Stream|Sand Force,Yes,1.0.2
+Toxicroak,Toxicroak,Base,Poison,Fighting,85,Anticipation|Dry Skin|Poison Touch,Yes,1.0.2
+Abomasnow,Abomasnow,Base,Grass,Ice,60,Snow Warning|Soundproof,Yes,1.0.2
+Weavile,Weavile,Base,Dark,Ice,125,Pressure|Pickpocket,Yes,1.0.2
+Rhyperior,Rhyperior,Base,Ground,Rock,40,Lightning Rod|Solid Rock|Reckless,Yes,1.0.2
+Leafeon,Leafeon,Base,Grass,,95,Leaf Guard|Chlorophyll,Yes,1.0.2
+Glaceon,Glaceon,Base,Ice,,65,Snow Cloak|Ice Body,Yes,1.0.2
+Gliscor,Gliscor,Base,Ground,Flying,95,Hyper Cutter|Sand Veil|Poison Heal,Yes,1.0.2
+Mamoswine,Mamoswine,Base,Ice,Ground,80,Oblivious|Snow Cloak|Thick Fat,Yes,1.0.2
+Gallade,Gallade,Base,Psychic,Fighting,80,Steadfast|Sharpness|Justified,Yes,1.0.2
+Froslass,Froslass,Base,Ice,Ghost,110,Snow Cloak|Cursed Body,Yes,1.0.2
+Rotom,Rotom,Base,Electric,Ghost,91,Levitate,Yes,1.0.2
+Rotom,Rotom Heat Rotom,Alt,Electric,Fire,86,Levitate,Yes,1.0.2
+Rotom,Rotom Wash Rotom,Alt,Electric,Water,86,Levitate,Yes,1.0.2
+Rotom,Rotom Frost Rotom,Alt,Electric,Ice,86,Levitate,Yes,1.0.2
+Rotom,Rotom Fan Rotom,Alt,Electric,Flying,86,Levitate,Yes,1.0.2
+Rotom,Rotom Mow Rotom,Alt,Electric,Grass,86,Levitate,Yes,1.0.2
+Serperior,Serperior,Base,Grass,,113,Overgrow|Contrary,Yes,1.0.2
+Emboar,Emboar,Base,Fire,Fighting,65,Blaze|Reckless,Yes,1.0.2
+Samurott,Samurott,Base,Water,,70,Torrent|Shell Armor,Yes,1.0.2
+Samurott,Samurott Hisuian Form,Alt,Water,Dark,85,Torrent|Sharpness,Yes,1.0.2
+Watchog,Watchog,Base,Normal,,77,Illuminate|Keen Eye|Analytic,Yes,1.0.2
+Liepard,Liepard,Base,Dark,,106,Limber|Unburden|Prankster,Yes,1.0.2
+Simisage,Simisage,Base,Grass,,101,Gluttony|Overgrow,Yes,1.0.2
+Simisear,Simisear,Base,Fire,,101,Gluttony|Blaze,Yes,1.0.2
+Simipour,Simipour,Base,Water,,101,Gluttony|Torrent,Yes,1.0.2
+Excadrill,Excadrill,Base,Ground,Steel,88,Sand Rush|Sand Force|Mold Breaker,Yes,1.0.2
+Audino,Audino,Base,Normal,,50,Healer|Regenerator|Klutz,Yes,1.0.2
+Conkeldurr,Conkeldurr,Base,Fighting,,45,Guts|Sheer Force|Iron Fist,Yes,1.0.2
+Whimsicott,Whimsicott,Base,Grass,Fairy,116,Prankster|Infiltrator|Chlorophyll,Yes,1.0.2
+Krookodile,Krookodile,Base,Ground,Dark,92,Intimidate|Moxie|Anger Point,Yes,1.0.2
+Cofagrigus,Cofagrigus,Base,Ghost,,30,Mummy,Yes,1.0.2
+Garbodor,Garbodor,Base,Poison,,75,Stench|Weak Armor|Aftermath,Yes,1.0.2
+Zoroark,Zoroark,Base,Dark,,105,Illusion,Yes,1.0.2
+Zoroark,Zoroark Hisuian Form,Alt,Normal,Ghost,110,Illusion,Yes,1.0.2
+Reuniclus,Reuniclus,Base,Psychic,,30,Overcoat|Magic Guard|Regenerator,Yes,1.0.2
+Vanilluxe,Vanilluxe,Base,Ice,,79,Ice Body|Snow Warning|Weak Armor,Yes,1.0.2
+Emolga,Emolga,Base,Electric,Flying,103,Static|Motor Drive,Yes,1.0.2
+Chandelure,Chandelure,Base,Ghost,Fire,80,Flash Fire|Flame Body|Infiltrator,Yes,1.0.2
+Beartic,Beartic,Base,Ice,,50,Snow Cloak|Slush Rush|Swift Swim,Yes,1.0.2
+Stunfisk,Stunfisk,Base,Ground,Electric,32,Static|Limber|Sand Veil,Yes,1.0.2
+Stunfisk,Stunfisk Galarian Form,Alt,Ground,Steel,32,Mimicry,Yes,1.0.2
+Golurk,Golurk,Base,Ground,Ghost,55,Iron Fist|Klutz|No Guard,Yes,1.0.2
+Hydreigon,Hydreigon,Base,Dark,Dragon,98,Levitate,Yes,1.0.2
+Volcarona,Volcarona,Base,Bug,Fire,100,Flame Body|Swarm,Yes,1.0.2
+Chesnaught,Chesnaught,Base,Grass,Fighting,64,Overgrow|Bulletproof,Yes,1.0.2
+Delphox,Delphox,Base,Fire,Psychic,104,Blaze|Magician,Yes,1.0.2
+Greninja,Greninja,Base,Water,Dark,122,Torrent|Protean,Yes,1.0.2
+Diggersby,Diggersby,Base,Normal,Ground,78,Pickup|Cheek Pouch|Huge Power,Yes,1.0.2
+Talonflame,Talonflame,Base,Fire,Flying,126,Flame Body|Gale Wings,Yes,1.0.2
+Vivillon,Vivillon,Base,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Yes,1.0.2
+Floette,Floette Eternal Flower,Alt,Fairy,,52,Flower Veil|Symbiosis,Transfer only,1.0.2
+Florges,Florges,Base,Fairy,,75,Flower Veil|Symbiosis,Yes,1.0.2
+Pangoro,Pangoro,Base,Fighting,Dark,58,Iron Fist|Mold Breaker|Scrappy,Yes,1.0.2
+Furfrou,Furfrou,Base,Normal,,102,Fur Coat,Yes,1.0.2
+Meowstic,Meowstic Male,Alt,Psychic,,104,Keen Eye|Infiltrator|Prankster,Yes,1.0.2
+Meowstic,Meowstic Female,Alt,Psychic,,104,Keen Eye|Infiltrator|Competitive,Yes,1.0.2
+Aegislash,Aegislash,Base,Steel,Ghost,60,Stance Change,Yes,1.0.2
+Aromatisse,Aromatisse,Base,Fairy,,29,Healer|Aroma Veil,Yes,1.0.2
+Slurpuff,Slurpuff,Base,Fairy,,72,Sweet Veil|Unburden,Yes,1.0.2
+Clawitzer,Clawitzer,Base,Water,,59,Mega Launcher,Yes,1.0.2
+Heliolisk,Heliolisk,Base,Electric,Normal,109,Dry Skin|Sand Veil|Solar Power,Yes,1.0.2
+Tyrantrum,Tyrantrum,Base,Rock,Dragon,71,Strong Jaw|Rock Head,Yes,1.0.2
+Aurorus,Aurorus,Base,Rock,Ice,58,Refrigerate|Snow Warning,Yes,1.0.2
+Sylveon,Sylveon,Base,Fairy,,60,Cute Charm|Pixilate,Yes,1.0.2
+Hawlucha,Hawlucha,Base,Fighting,Flying,118,Limber|Unburden|Mold Breaker,Yes,1.0.2
+Dedenne,Dedenne,Base,Electric,Fairy,101,Cheek Pouch|Pickup|Plus,Yes,1.0.2
+Goodra,Goodra,Base,Dragon,,80,Sap Sipper|Hydration|Gooey,Yes,1.0.2
+Goodra,Goodra Hisuian Form,Alt,Steel,Dragon,60,Sap Sipper|Shell Armor|Gooey,Yes,1.0.2
+Klefki,Klefki,Base,Steel,Fairy,75,Prankster|Magician,Yes,1.0.2
+Trevenant,Trevenant,Base,Ghost,Grass,56,Natural Cure|Frisk|Harvest,Yes,1.0.2
+Gourgeist,Gourgeist Medium Variety,Alt,Ghost,Grass,84,Pickup|Frisk|Insomnia,Yes,1.0.2
+Gourgeist,Gourgeist Small Variety,Alt,Ghost,Grass,99,Pickup|Frisk|Insomnia,Yes,1.0.2
+Gourgeist,Gourgeist Large Variety,Alt,Ghost,Grass,69,Pickup|Frisk|Insomnia,Yes,1.0.2
+Gourgeist,Gourgeist Jumbo Variety,Alt,Ghost,Grass,54,Pickup|Frisk|Insomnia,Yes,1.0.2
+Avalugg,Avalugg,Base,Ice,,28,Own Tempo|Ice Body|Sturdy,Yes,1.0.2
+Avalugg,Avalugg Hisuian Form,Alt,Ice,Rock,38,Strong Jaw|Ice Body|Sturdy,Yes,1.0.2
+Noivern,Noivern,Base,Flying,Dragon,123,Frisk|Infiltrator|Telepathy,Yes,1.0.2
+Decidueye,Decidueye,Base,Grass,Ghost,70,Overgrow|Long Reach,Yes,1.0.2
+Decidueye,Decidueye Hisuian Form,Alt,Grass,Fighting,60,Overgrow|Scrappy,Yes,1.0.2
+Incineroar,Incineroar,Base,Fire,Dark,60,Blaze|Intimidate,Yes,1.0.2
+Primarina,Primarina,Base,Water,Fairy,60,Torrent|Liquid Voice,Yes,1.0.2
+Toucannon,Toucannon,Base,Normal,Flying,60,Keen Eye|Skill Link|Sheer Force,Yes,1.0.2
+Crabominable,Crabominable,Base,Fighting,Ice,43,Hyper Cutter|Iron Fist|Anger Point,Yes,1.0.2
+Lycanroc,Lycanroc Midday Form,Alt,Rock,,112,Keen Eye|Sand Rush|Steadfast,Yes,1.0.2
+Lycanroc,Lycanroc Midnight Form,Alt,Rock,,82,Keen Eye|Vital Spirit|No Guard,Yes,1.0.2
+Lycanroc,Lycanroc Dusk Form,Alt,Rock,,110,Tough Claws,Yes,1.0.2
+Toxapex,Toxapex,Base,Poison,Water,35,Merciless|Limber|Regenerator,Yes,1.0.2
+Mudsdale,Mudsdale,Base,Ground,,35,Own Tempo|Stamina|Inner Focus,Yes,1.0.2
+Araquanid,Araquanid,Base,Water,Bug,42,Water Bubble|Water Absorb,Yes,1.0.2
+Salazzle,Salazzle,Base,Poison,Fire,117,Corrosion|Oblivious,Yes,1.0.2
+Tsareena,Tsareena,Base,Grass,,72,Leaf Guard|Queenly Majesty|Sweet Veil,Yes,1.0.2
+Oranguru,Oranguru,Base,Normal,Psychic,60,Inner Focus|Telepathy|Symbiosis,Yes,1.0.2
+Passimian,Passimian,Base,Fighting,,80,Receiver|Defiant,Yes,1.0.2
+Mimikyu,Mimikyu,Base,Ghost,Fairy,96,Disguise,Yes,1.0.2
+Drampa,Drampa,Base,Normal,Dragon,36,Berserk|Sap Sipper|Cloud Nine,Yes,1.0.2
+Kommo-o,Kommo-o,Base,Dragon,Fighting,85,Bulletproof|Soundproof|Overcoat,Yes,1.0.2
+Corviknight,Corviknight,Base,Flying,Steel,67,Pressure|Unnerve|Mirror Armor,Yes,1.0.2
+Flapple,Flapple,Base,Grass,Dragon,70,Ripen|Gluttony|Hustle,Yes,1.0.2
+Appletun,Appletun,Base,Grass,Dragon,30,Ripen|Gluttony|Thick Fat,Yes,1.0.2
+Sandaconda,Sandaconda,Base,Ground,,71,Sand Spit|Shed Skin|Sand Veil,Yes,1.0.2
+Polteageist,Polteageist,Base,Ghost,,70,Weak Armor|Cursed Body,Yes,1.0.2
+Hatterene,Hatterene,Base,Psychic,Fairy,29,Healer|Anticipation|Magic Bounce,Yes,1.0.2
+Mr. Rime,Mr. Rime,Base,Ice,Psychic,70,Tangled Feet|Screen Cleaner|Ice Body,Yes,1.0.2
+Runerigus,Runerigus,Base,Ground,Ghost,30,Wandering Spirit,Yes,1.0.2
+Alcremie,Alcremie,Base,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Morpeko,Morpeko,Base,Electric,Dark,97,Hunger Switch,Yes,1.0.2
+Dragapult,Dragapult,Base,Dragon,Ghost,142,Clear Body|Infiltrator|Cursed Body,Yes,1.0.2
+Wyrdeer,Wyrdeer,Base,Normal,Psychic,65,Intimidate|Frisk|Sap Sipper,Yes,1.0.2
+Kleavor,Kleavor,Base,Bug,Rock,85,Swarm|Sheer Force|Sharpness,Yes,1.0.2
+Basculegion,Basculegion Male,Alt,Water,Ghost,78,Swift Swim|Adaptability|Mold Breaker,Yes,1.0.2
+Basculegion,Basculegion Female,Alt,Water,Ghost,78,Swift Swim|Adaptability|Mold Breaker,Yes,1.0.2
+Sneasler,Sneasler,Base,Fighting,Poison,120,Pressure|Unburden|Poison Touch,Yes,1.0.2
+Meowscarada,Meowscarada,Base,Grass,Dark,123,Overgrow|Protean,Yes,1.0.2
+Skeledirge,Skeledirge,Base,Fire,Ghost,66,Blaze|Unaware,Yes,1.0.2
+Quaquaval,Quaquaval,Base,Water,Fighting,85,Torrent|Moxie,Yes,1.0.2
+Maushold,Maushold,Base,Normal,,111,Friend Guard|Cheek Pouch|Technician,Yes,1.0.2
+Garganacl,Garganacl,Base,Rock,,35,Purifying Salt|Sturdy|Clear Body,Yes,1.0.2
+Armarouge,Armarouge,Base,Fire,Psychic,75,Flash Fire|Weak Armor,Yes,1.0.2
+Ceruledge,Ceruledge,Base,Fire,Ghost,85,Flash Fire|Weak Armor,Yes,1.0.2
+Bellibolt,Bellibolt,Base,Electric,,45,Electromorphosis|Static|Damp,Yes,1.0.2
+Scovillain,Scovillain,Base,Grass,Fire,75,Chlorophyll|Insomnia|Moody,Yes,1.0.2
+Espathra,Espathra,Base,Psychic,,105,Opportunist|Frisk|Speed Boost,Yes,1.0.2
+Tinkaton,Tinkaton,Base,Fairy,Steel,94,Mold Breaker|Own Tempo|Pickpocket,Yes,1.0.2
+Palafin,Palafin,Base,Water,,100,Zero to Hero,Yes,1.0.2
+Orthworm,Orthworm,Base,Steel,,65,Earth Eater|Sand Veil,Yes,1.0.2
+Glimmora,Glimmora,Base,Rock,Poison,86,Toxic Debris|Corrosion,Yes,1.0.2
+Farigiraf,Farigiraf,Base,Normal,Psychic,60,Cud Chew|Armor Tail|Sap Sipper,Yes,1.0.2
+Kingambit,Kingambit,Base,Dark,Steel,50,Defiant|Supreme Overlord|Pressure,Yes,1.0.2
+Sinistcha,Sinistcha,Base,Grass,Ghost,70,Hospitality|Heatproof,Yes,1.0.2
+Archaludon,Archaludon,Base,Steel,Dragon,85,Stamina|Sturdy|Stalwart,Yes,1.0.2
+Hydrapple,Hydrapple,Base,Grass,Dragon,44,Supersweet Syrup|Regenerator|Sticky Hold,Yes,1.0.2
+Venusaur,Mega Venusaur,Mega,Grass,Poison,80,Thick Fat,Yes,1.0.2
+Charizard,Mega Charizard X,Mega,Fire,Dragon,100,Tough Claws,Yes,1.0.2
+Charizard,Mega Charizard Y,Mega,Fire,Flying,100,Drought,Yes,1.0.2
+Blastoise,Mega Blastoise,Mega,Water,,78,Mega Launcher,Yes,1.0.2
+Beedrill,Mega Beedrill,Mega,Bug,Poison,145,Adaptability,Yes,1.0.2
+Pidgeot,Mega Pidgeot,Mega,Normal,Flying,121,No Guard,Yes,1.0.2
+Clefable,Mega Clefable,Mega,Fairy,Flying,60,Magic Bounce,Yes,1.0.2
+Alakazam,Mega Alakazam,Mega,Psychic,,150,Trace,Yes,1.0.2
+Victreebel,Mega Victreebel,Mega,Grass,Poison,70,Innards Out,Yes,1.0.2
+Slowbro,Mega Slowbro,Mega,Water,Psychic,30,Shell Armor,Yes,1.0.2
+Gengar,Mega Gengar,Mega,Ghost,Poison,130,Shadow Tag,Yes,1.0.2
+Kangaskhan,Mega Kangaskhan,Mega,Normal,,100,Parental Bond,Yes,1.0.2
+Starmie,Mega Starmie,Mega,Water,Psychic,115,Huge Power,Yes,1.0.2
+Pinsir,Mega Pinsir,Mega,Bug,Flying,105,Aerilate,Yes,1.0.2
+Gyarados,Mega Gyarados,Mega,Water,Dark,81,Mold Breaker,Yes,1.0.2
+Aerodactyl,Mega Aerodactyl,Mega,Rock,Flying,150,Tough Claws,Yes,1.0.2
+Dragonite,Mega Dragonite,Mega,Dragon,Flying,80,Multiscale,Yes,1.0.2
+Meganium,Mega Meganium,Mega,Grass,Fairy,80,Mega Sol,Yes,1.0.2
+Feraligatr,Mega Feraligatr,Mega,Water,Dragon,78,Dragonize,Yes,1.0.2
+Ampharos,Mega Ampharos,Mega,Electric,Dragon,45,Mold Breaker,Yes,1.0.2
+Steelix,Mega Steelix,Mega,Steel,Ground,30,Sand Force,Yes,1.0.2
+Scizor,Mega Scizor,Mega,Bug,Steel,75,Technician,Yes,1.0.2
+Heracross,Mega Heracross,Mega,Bug,Fighting,75,Skill Link,Yes,1.0.2
+Skarmory,Mega Skarmory,Mega,Steel,Flying,70,Stalwart,Yes,1.0.2
+Houndoom,Mega Houndoom,Mega,Dark,Fire,115,Solar Power,Yes,1.0.2
+Tyranitar,Mega Tyranitar,Mega,Rock,Dark,71,Sand Stream,Yes,1.0.2
+Gardevoir,Mega Gardevoir,Mega,Psychic,Fairy,100,Pixilate,Yes,1.0.2
+Sableye,Mega Sableye,Mega,Dark,Ghost,20,Magic Bounce,Yes,1.0.2
+Aggron,Mega Aggron,Mega,Steel,,50,Filter,Yes,1.0.2
+Medicham,Mega Medicham,Mega,Fighting,Psychic,100,Pure Power,Yes,1.0.2
+Manectric,Mega Manectric,Mega,Electric,,135,Intimidate,Yes,1.0.2
+Sharpedo,Mega Sharpedo,Mega,Water,Dark,105,Strong Jaw,Yes,1.0.2
+Camerupt,Mega Camerupt,Mega,Fire,Ground,20,Sheer Force,Yes,1.0.2
+Altaria,Mega Altaria,Mega,Dragon,Fairy,80,Pixilate,Yes,1.0.2
+Banette,Mega Banette,Mega,Ghost,,75,Prankster,Yes,1.0.2
+Chimecho,Mega Chimecho,Mega,Psychic,Steel,65,Levitate,Yes,1.0.2
+Absol,Mega Absol,Mega,Dark,,115,Magic Bounce,Yes,1.0.2
+Glalie,Mega Glalie,Mega,Ice,,100,Refrigerate,Yes,1.0.2
+Lopunny,Mega Lopunny,Mega,Normal,Fighting,135,Scrappy,Yes,1.0.2
+Garchomp,Mega Garchomp,Mega,Dragon,Ground,92,Sand Force,Yes,1.0.2
+Lucario,Mega Lucario,Mega,Fighting,Steel,112,Adaptability,Yes,1.0.2
+Abomasnow,Mega Abomasnow,Mega,Grass,Ice,30,Snow Warning,Yes,1.0.2
+Gallade,Mega Gallade,Mega,Psychic,Fighting,110,Inner Focus,Yes,1.0.2
+Froslass,Mega Froslass,Mega,Ice,Ghost,110,Snow Warning,Yes,1.0.2
+Emboar,Mega Emboar,Mega,Fire,Fighting,65,Mold Breaker,Yes,1.0.2
+Excadrill,Mega Excadrill,Mega,Ground,Steel,88,Piercing Drill,Yes,1.0.2
+Audino,Mega Audino,Mega,Normal,Fairy,50,Healer,Yes,1.0.2
+Chandelure,Mega Chandelure,Mega,Ghost,Fire,80,Infiltrator,Yes,1.0.2
+Golurk,Mega Golurk,Mega,Ground,Ghost,55,Unseen Fist,Yes,1.0.2
+Chesnaught,Mega Chesnaught,Mega,Grass,Fighting,64,Bulletproof,Event only,1.0.2
+Delphox,Mega Delphox,Mega,Fire,Psychic,104,Levitate,Event only,1.0.2
+Greninja,Mega Greninja,Mega,Water,Dark,122,Protean,Event only,1.0.2
+Floette,Mega Floette,Mega,Fairy,,52,Fairy Aura,Event only,1.0.2
+Meowstic,Mega Meowstic,Mega,Psychic,,104,Trace,Yes,1.0.2
+Hawlucha,Mega Hawlucha,Mega,Fighting,Flying,118,No Guard,Yes,1.0.2
+Crabominable,Mega Crabominable,Mega,Fighting,Ice,43,Iron Fist,Yes,1.0.2
+Drampa,Mega Drampa,Mega,Normal,Dragon,36,Berserk,Yes,1.0.2
+Scovillain,Mega Scovillain,Mega,Grass,Fire,75,Spicy Spray,Yes,1.0.2
+Glimmora,Mega Glimmora,Mega,Rock,Poison,86,Adaptability,Yes,1.0.2
+Castform,Castform Sunny Form,Alt,Fire,,70,Forecast,Yes,1.0.2
+Castform,Castform Rainy Form,Alt,Water,,70,Forecast,Yes,1.0.2
+Castform,Castform Snowy Form,Alt,Ice,,70,Forecast,Yes,1.0.2
+Vivillon,Vivillon Fancy Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Icy Snow Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Polar Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Tundra Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Continental Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Garden Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Elegant Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Meadow Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Modern Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Marine Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Archipelago Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon High Plains Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Yes,1.0.2
+Vivillon,Vivillon Sandstorm Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon River Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Monsoon Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Savanna Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Sun Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Ocean Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Jungle Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Vivillon,Vivillon Poké Ball Pattern,Alt,Bug,Flying,89,Shield Dust|Compound Eyes|Friend Guard,Transfer only,1.0.2
+Florges,Florges Yellow Flower,Alt,Fairy,,75,Flower Veil|Symbiosis,Yes,1.0.2
+Florges,Florges Orange Flower,Alt,Fairy,,75,Flower Veil|Symbiosis,Yes,1.0.2
+Florges,Florges Blue Flower,Alt,Fairy,,75,Flower Veil|Symbiosis,Yes,1.0.2
+Florges,Florges White Flower,Alt,Fairy,,75,Flower Veil|Symbiosis,Yes,1.0.2
+Furfrou,Furfrou Heart Trim,Alt,Normal,,102,Fur Coat,Transfer only,1.0.2
+Furfrou,Furfrou Star Trim,Alt,Normal,,102,Fur Coat,Transfer only,1.0.2
+Furfrou,Furfrou Diamond Trim,Alt,Normal,,102,Fur Coat,Transfer only,1.0.2
+Furfrou,Furfrou Debutante Trim,Alt,Normal,,102,Fur Coat,Transfer only,1.0.2
+Furfrou,Furfrou Matron Trim,Alt,Normal,,102,Fur Coat,Yes,1.0.2
+Furfrou,Furfrou Dandy Trim,Alt,Normal,,102,Fur Coat,Yes,1.0.2
+Furfrou,Furfrou La Reine Trim,Alt,Normal,,102,Fur Coat,Transfer only,1.0.2
+Furfrou,Furfrou Kabuki Trim,Alt,Normal,,102,Fur Coat,Transfer only,1.0.2
+Furfrou,Furfrou Pharaoh Trim,Alt,Normal,,102,Fur Coat,Transfer only,1.0.2
+Aegislash,Aegislash Blade Forme,Alt,Steel,Ghost,60,Stance Change,Yes,1.0.2
+Alcremie,Alcremie Ruby Cream,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Alcremie,Alcremie Matcha Cream,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Alcremie,Alcremie Mint Cream,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Alcremie,Alcremie Lemon Cream,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Alcremie,Alcremie Salted Cream,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Alcremie,Alcremie Ruby Swirl,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Alcremie,Alcremie Caramel Swirl,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Alcremie,Alcremie Rainbow Swirl,Alt,Fairy,,64,Sweet Veil|Aroma Veil,Yes,1.0.2
+Morpeko,Morpeko Hangry Mode,Alt,Electric,Dark,97,Hunger Switch,Yes,1.0.2
+Maushold,Maushold Family of Four,Alt,Normal,,111,Friend Guard|Cheek Pouch|Technician,Yes,1.0.2
+Palafin,Palafin Hero Form,Alt,Water,,100,Zero to Hero,Yes,1.0.2
